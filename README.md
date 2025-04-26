@@ -15,10 +15,10 @@ A fully automated workflow combining Python-based web scraping with CAPTCHA/anti
 - Expandable Use Case: Easily adaptable for scraping real estate listings, product prices, financial data, or any hyperlinked web-based content.
 
 ## Solution Components:
-- Web Scraper: Python-based automated navigation and extraction.
-- Data Structuring: Cleaning and organizing scraped results.
-- Excel Reporting: VBA automation for structured saving and formatting.
-- Anti-Scraping API Integration: Handles bot protections automatically.
+- Web Scraper: Python-based automated navigation and extraction
+- Data Structuring: Cleaning and organizing scraped results
+- Excel Reporting: VBA automation for structured saving and formatting
+- Anti-Scraping API Integration: Handles bot protections automatically
 
 ## Demo Video:
 - [Watch Demo](https://youtu.be/nyRCz6Mg18o)
